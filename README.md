@@ -1,6 +1,4 @@
 <div class="container">
- <h1 align="center">Hi 👋, I'm Dhara Parikh</h1>
- <h3 align="center">A passionate frontend developer from India</h3>
   <div class="row">
     <div class="col-sm-6" style="background-color:yellow;">
        <h1 align="center">Hi 👋, I'm Dhara Parikh</h1>
@@ -18,19 +16,6 @@
     </div>
   </div>
 </div>
-
-
-
-<h1 align="center">Hi 👋, I'm Dhara Parikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working in **GIPL**
-
-- 🌱 I’m currently learning **Data Science skill sets**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 📫 How to reach me **Linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
