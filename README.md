@@ -1,12 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working in GIPL
+- ✍ You can find my projects here portfolio
 - 🌱 I’m currently accelerating my data science skills
 - 👯 I’m looking to collaborate on Open Source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: Linkedin
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am Happy
+
 
