@@ -11,10 +11,10 @@
           - 📫 How to reach me **Linkedin**
       </div>
     </div>
-    <div class="col-sm-6" style="background-color:pink;">
-      <img src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true">
-   
-
+    
+  </div>
+</div>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
