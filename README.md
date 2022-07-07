@@ -4,7 +4,11 @@
        <h1 align="center">Hi 👋, I'm Dhara Parikh</h1>
        <h3 align="center">A passionate frontend developer from India</h3>
        <div>
-          
+          - 🌱 I’m currently learning **Data Science skill sets**
+
+          - 👯 I’m looking to collaborate on **Open Source**
+
+          - 📫 How to reach me **Linkedin**
       </div>
     </div>
     <div class="col-sm-6" style="background-color:pink;">
