@@ -11,9 +11,7 @@
           - 📫 How to reach me **Linkedin**
       </div>
     </div>
-    <div class="col-sm-6" style="background-color:pink;">
-      <img src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true">
-    </div>
+   
   </div>
 </div>
 
