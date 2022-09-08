@@ -10,7 +10,7 @@
     
   </div>
 </div>
-- 🌱 I’m currently learning Django and React
+-🌱 I’m currently learning Django and React
 - 💬 Ask me about Flutter or any tech-related stuf
 - 👯 I’m looking to collaborate on **Open Source**
 - 📫 How to reach me Linkedin         
